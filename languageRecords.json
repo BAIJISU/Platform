@@ -1,26 +1,82 @@
 [
   {
     "id": "r1",
-    "date": "2025-11-20",
-    "pronunciation": 82,
-    "vocabulary": 76,
-    "sentence": 5.2,
-    "memo": "동물 이름을 스스로 말해 보려고 했어요."
+    "date": "2025-11-02",
+    "pronunciation": 70,
+    "vocabulary": 68,
+    "sentence": 4.2,
+    "memo": "그림책을 보며 단어를 몇 개 따라 말해 보았습니다."
   },
   {
     "id": "r2",
+    "date": "2025-11-04",
+    "pronunciation": 71,
+    "vocabulary": 69,
+    "sentence": 4.3,
+    "memo": "색깔 이름을 스스로 말하려는 시도가 조금 늘었습니다."
+  },
+  {
+    "id": "r3",
+    "date": "2025-11-06",
+    "pronunciation": 72,
+    "vocabulary": 70,
+    "sentence": 4.4,
+    "memo": ""
+  },
+  {
+    "id": "r4",
+    "date": "2025-11-08",
+    "pronunciation": 73,
+    "vocabulary": 71,
+    "sentence": 4.5,
+    "memo": "짧은 문장을 한 번에 또박또박 말하려는 모습이 보였습니다."
+  },
+  {
+    "id": "r5",
+    "date": "2025-11-10",
+    "pronunciation": 74,
+    "vocabulary": 72,
+    "sentence": 4.6,
+    "memo": "동요 가사를 중간까지 스스로 따라 불렀습니다."
+  },
+  {
+    "id": "r6",
+    "date": "2025-11-12",
+    "pronunciation": 75,
+    "vocabulary": 73,
+    "sentence": 4.7,
+    "memo": "그림책 속 인물을 가리키며 '이거 뭐야?'라고 질문했습니다."
+  },
+  {
+    "id": "r7",
     "date": "2025-11-13",
-    "pronunciation": 79,
+    "pronunciation": 76,
     "vocabulary": 74,
     "sentence": 4.9,
     "memo": "짧은 문장을 두 번 이상 반복해서 말했습니다."
   },
   {
-    "id": "r3",
-    "date": "2025-11-06",
-    "pronunciation": 76,
-    "vocabulary": 72,
-    "sentence": 4.7,
-    "memo": ""
+    "id": "r8",
+    "date": "2025-11-16",
+    "pronunciation": 78,
+    "vocabulary": 75,
+    "sentence": 5.0,
+    "memo": "오늘 있었던 일을 두세 문장으로 이야기하려는 시도가 있었습니다."
+  },
+  {
+    "id": "r9",
+    "date": "2025-11-18",
+    "pronunciation": 80,
+    "vocabulary": 76,
+    "sentence": 5.1,
+    "memo": "동물 이름과 울음소리를 같이 말해 보았습니다."
+  },
+  {
+    "id": "r10",
+    "date": "2025-11-20",
+    "pronunciation": 82,
+    "vocabulary": 77,
+    "sentence": 5.2,
+    "memo": "동물 이름을 스스로 말해 보려고 했어요."
   }
 ]
